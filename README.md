@@ -1,12 +1,20 @@
 <div align="center">
 
-# Tristao Tech
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&pause=999999&color=F7D100&center=true&vCenter=true&repeat=false&width=600&lines=TRISTAO+TECH" />
+</p>
+
+---
 
 ### Transformando ideias em sosluções digitais de alto impacto.
 
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=F7D100&center=true&vCenter=true&width=800&lines=Desenvolvimento+de+Sites+e+Aplicações;Soluções+Digitais+para+Empresas;Arquitetura+Escalável+e+Moderna;Transformando+Desafios+em+Tecnologia)
 
+---
+
 <br>
+
 
 [![Website](https://img.shields.io/badge/Website-Em%20Breve-black?style=for-the-badge)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Em%20Breve-black?style=for-the-badge&logo=linkedin)]()
